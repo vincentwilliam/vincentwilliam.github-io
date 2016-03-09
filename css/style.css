@@ -93,7 +93,7 @@ p {
   text-decoration: none;
 }
 #header {
-  text-shadow: 0 0 1px #fff;
+  text-shadow: 0 0 5px #000;
   margin-top: 0px;
 }
 #header a {
